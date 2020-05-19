@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://i.ibb.co/DVQmLBj/puffins-5170171.jpg"');
+    font-family: arial;
+    background-size: 100vw 100vh;
+}
+  
+.menu {
+    background-color: white;
+    
+}
+  
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+.site-subtitle,
+.site-title {
+    color: black;
+    text-align: center;
+    
+}
+  
+.site-subtitle {
+    font-style: italic;
+}
+  
+.menu ul {
+    display: flex;  
+    justify-content: space-around;
+}
+  
+.menu li {
+    list-style: none;
+}
